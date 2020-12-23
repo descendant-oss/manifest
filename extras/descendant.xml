@@ -87,7 +87,7 @@
   <project name="vendor_qcom_opensource_dataservices"  path="vendor/qcom/opensource/dataservices"            remote="potato-next" />
   <project name="vendor_qcom_opensource_fm-commonsys"  path="vendor/qcom/opensource/fm-commonsys"            remote="potato-next" />
   <project name="vendor_qcom_opensource_interfaces"    path="vendor/qcom/opensource/interfaces"              remote="potato-next" />
-  <project name="vendor_qcom_opensource_system_bt"     path="vendor/qcom/opensource/commonsys/system/bt"     remote="descendant"/>
+  <project name="vendor_qcom_opensource_system_bt"     path="vendor/qcom/opensource/system/bt"     remote="descendant"/>
   <project name="vendor_qcom_opensource_bluetooth_ext" path="vendor/qcom/opensource/commonsys/bluetooth_ext" remote="descendant"/>
   <project name="vendor_qcom_opensource_vibrator"      path="vendor/qcom/opensource/vibrator"                remote="potato-next"/>
   <project name="vendor_qcom_opensource_usb"           path="vendor/qcom/opensource/usb"                     remote="potato-next"/>
