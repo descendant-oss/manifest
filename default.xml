@@ -16,7 +16,7 @@
 
   <remote name="descendant"
           fetch="https://gitlab.com/descendant-xi"
-          revision="refs/heads/eleven-staging" />
+          branch="eleven-staging" />
 
   <remote name="devices"
           fetch="https://github.com/PotatoDevices"
