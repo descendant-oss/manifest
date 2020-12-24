@@ -40,9 +40,10 @@
   <project name="packages_apps_Bluetooth"       path="packages/apps/Bluetooth"       remote="potato" />
   <project name="packages_apps_Launcher3"       path="packages/apps/Launcher3"       remote="descendant" />
   <project name="packages_apps_Nfc"             path="packages/apps/Nfc"             remote="potato" />
+  <project name="packages_apps_PermissionController" path="packages/apps/PermissionController" remote="descendant">
   <project name="packages_apps_Settings"        path="packages/apps/Settings"        remote="descendant" />
   <project name="packages_apps_Settings_DescendantHealth"        path="packages/apps/Settings/DescendantHealth"        remote="descendant" />
-  <project name="packages_apps_ThemePicker"     path="packages/apps/ThemePicker"     remote="potato" />
+  <project name="packages_apps_ThemePicker"     path="packages/apps/ThemePicker"     remote="descendant" />
   <project name="packages_services_Telephony"   path="packages/services/Telephony"   remote="potato" />
   <project name="packages_services_Telecomm"    path="packages/services/Telecomm"    remote="potato" />
   <project name="packages_modules_NetworkStack" path="packages/modules/NetworkStack" remote="potato" />
@@ -54,6 +55,7 @@
   <project name="external_selinux"      path="external/selinux"      remote="potato" />
   <project name="external_json-c"       path="external/json-c"       remote="potato" />
   <project name="external_libcxx"       path="external/libcxx"       remote="potato" />
+  <project name="external_motorola_faceunlock" path="external/motorola/faceunlock" remote="descendant"/>
 
   <!-- Prebuilt repos -->
   <project name="prebuilts_abi-dumps_vndk" path="prebuilts/abi-dumps/vndk" remote="potato" clone-depth="1" />
