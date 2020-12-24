@@ -37,7 +37,7 @@
   <project name="frameworks_opt_net_wifi"  path="frameworks/opt/net/wifi"  remote="potato" />
 
   <!-- Packages -->
-  <project name="android_packages_apps_Bluetooth"       path="packages/apps/Bluetooth"       remote="lineage" />
+  <project name="packages_apps_Bluetooth"       path="packages/apps/Bluetooth"       remote="descendant" />
   <project name="packages_apps_Launcher3"       path="packages/apps/Launcher3"       remote="descendant" />
   <project name="packages_apps_Nfc"             path="packages/apps/Nfc"             remote="potato" />
   <project name="packages_apps_PermissionController" path="packages/apps/PermissionController" remote="descendant"/>
