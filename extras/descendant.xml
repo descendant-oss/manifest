@@ -92,5 +92,6 @@
   <project name="vendor_descendant"                          path="vendor/descendant"                       remote="descendant" />
   <project name="vendor_gapps"                          path="vendor/gapps"                       remote="descendant" />
 	<project name="vendor_sounds"                          path="vendor/sounds"                       remote="descendant" />
+  <project name="vendor_support"                          path="vendor/support"                       remote="descendant" />
   <project name="vendor_themes"                          path="vendor/themes"                       remote="descendant" />
 </manifest>
