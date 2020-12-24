@@ -25,8 +25,8 @@
   <project name="device_mediatek_sepolicy"               path="device/mediatek/sepolicy"       remote="potato" />
   <project name="device_qcom_sepolicy"                   path="device/qcom/sepolicy"           remote="descendant" />
   <project name="device_qcom_sepolicy_vndr"              path="device/qcom/sepolicy_vndr"      remote="descendant" />
-  <project name="device_descendant_sepolicy"                 path="device/descendant/sepolicy"         remote="descendant" />
-    <project name="device_qcom_sepolicy-legacy"            path="device/qcom/sepolicy-legacy"    remote="descendant" />
+  <project name="device_descendant_sepolicy"             path="device/descendant/sepolicy"     remote="descendant" />
+  <project name="device_qcom_sepolicy-legacy"            path="device/qcom/sepolicy-legacy"    remote="descendant" />
   <project name="device_qcom_sepolicy-legacy-um"         path="device/qcom/sepolicy-legacy-um" remote="descendant" />
 
   <!-- Framework repos -->
@@ -40,7 +40,7 @@
   <project name="packages_apps_Bluetooth"       path="packages/apps/Bluetooth"       remote="potato" />
   <project name="packages_apps_Launcher3"       path="packages/apps/Launcher3"       remote="descendant" />
   <project name="packages_apps_Nfc"             path="packages/apps/Nfc"             remote="potato" />
-  <project name="packages_apps_PermissionController" path="packages/apps/PermissionController" remote="descendant">
+  <project name="packages_apps_PermissionController" path="packages/apps/PermissionController" remote="descendant"/>
   <project name="packages_apps_Settings"        path="packages/apps/Settings"        remote="descendant" />
   <project name="packages_apps_Settings_DescendantHealth"        path="packages/apps/Settings/DescendantHealth"        remote="descendant" />
   <project name="packages_apps_ThemePicker"     path="packages/apps/ThemePicker"     remote="descendant" />
