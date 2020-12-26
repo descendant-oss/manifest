@@ -43,6 +43,7 @@
   <project name="packages_apps_Nfc"             path="packages/apps/Nfc"             remote="potato" />
   <project name="packages_apps_PermissionController" path="packages/apps/PermissionController" remote="descendant"/>
   <project name="packages_apps_Settings"        path="packages/apps/Settings"        remote="descendant" />
+  <project name="packages_apps_SettingsIntelligence"        path="packages/apps/Settings"        remote="descendant" />  
   <project name="packages_apps_Settings_DescendantHealth"        path="packages/apps/Settings/DescendantHealth"        remote="descendant" />
   <project name="packages_apps_ThemePicker"     path="packages/apps/ThemePicker"     remote="descendant" />
   <project name="packages_apps_WallpaperPicker2" path="packages/apps/WallpaperPicker2" remote="descendant" />
