@@ -35,6 +35,7 @@
   <project name="frameworks_native"        path="frameworks/native"        remote="potato" />
   <project name="frameworks_opt_telephony" path="frameworks/opt/telephony" remote="potato" />
   <project name="frameworks_opt_net_wifi"  path="frameworks/opt/net/wifi"  remote="potato" />
+  <project path="frameworks_opt_net_ims" path="frameworks/opt/net/ims" remote="descendant"/>
 
   <!-- Packages -->
   <project name="packages_apps_Bluetooth"       path="packages/apps/Bluetooth"       remote="descendant" />
