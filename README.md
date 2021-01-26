@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1VnGGvwlsvM_9d2IzJn_D4Us55f8G6FgOd3NnsrkN8og/
 
 To initialize your local repository, use this command:
 
-	repo init -u https://gitlab.com/descendant-xi/manifest.git -b eleven-staging
+	repo init -u https://github.com/descendant-oss/manifest -b eleven-staging
 
  Then to sync up:
 
